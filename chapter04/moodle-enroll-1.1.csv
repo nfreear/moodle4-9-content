@@ -1,0 +1,4 @@
+username, password, firstname, lastname, email, maildisplay, course1
+tom, rc84hd, Tom, Jones, teacher.name+tom@my.school, 0, MY104
+susan, orange32, Susan, Smith, teacher.name+susan@my.school, 0, MY104
+donald, apple21, Donald, Duck,teacher.name+donald@my.school, 0, MY104
